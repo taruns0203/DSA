@@ -1,0 +1,56 @@
+Enter the data: 
+10
+Enter data for left part of 10 node 
+Enter the data: 
+20
+Enter data for left part of 20 node 
+Enter the data: 
+30
+Enter data for left part of 30 node 
+Enter the data: 
+-1
+Enter data for right part of 30 node 
+Enter the data: 
+-1
+Enter data for right part of 20 node 
+Enter the data: 
+40
+Enter data for left part of 40 node 
+Enter the data: 
+60
+Enter data for left part of 60 node 
+Enter the data: 
+-1
+Enter data for right part of 60 node 
+Enter the data: 
+-1
+Enter data for right part of 40 node 
+Enter the data: 
+-1
+Enter data for right part of 10 node 
+Enter the data: 
+80
+Enter data for left part of 80 node 
+Enter the data: 
+50
+Enter data for left part of 50 node 
+Enter the data: 
+-1
+Enter data for right part of 50 node 
+Enter the data: 
+70
+Enter data for left part of 70 node 
+Enter the data: 
+-1
+Enter data for right part of 70 node 
+Enter the data: 
+-1
+Enter data for right part of 80 node 
+Enter the data: 
+90
+Enter data for left part of 90 node 
+Enter the data: 
+-1
+Enter data for right part of 90 node 
+Enter the data: 
+-1
